@@ -1,0 +1,124 @@
+{
+  "data":[
+    {
+      "id":1,
+      "displayPicture":"https://i.pinimg.com/originals/7e/c3/61/7ec361c375997cf294ab2845ff1142d9.jpg",
+      "name":"Daniela Swanson",
+      "location":"Kallam, Osmanabad",
+      "picture":"https://5.imimg.com/data5/XT/YZ/CN/SELLER-3623778/agricultural-greenhouses-500x500.png",
+      "likes":245,
+      "comments":12,
+      "description":1,
+      "isLiked":true,
+      "isSaved":true
+    },
+    {
+      "id":2,
+      "displayPicture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhtGd9smiLse9liZ3OpdCJ8zuduDfUEdC9U6_KG0XVwXn6Kx8xwl1LS3dy9nFsZIQY1Q&usqp=CAU",
+      "name":"Jaydn Hassan",
+      "location":"Paranda, Osmanabad",
+      "picture":"https://i.pinimg.com/originals/fe/81/10/fe8110656f2ef3169ec434121143ed1c.jpg",
+      "likes":56,
+      "comments":42,
+      "description":1,
+      "isLiked":false,
+      "isSaved":true
+    },
+    {
+      "id":3,
+      "displayPicture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZA3JY1A0u0hpn3-K2Yopzb044Gg3bLQxtJslp2tuDExzwRX35EI8aSbArTSUiaB29M0&usqp=CAU",
+      "name":"Chandler Odonnell",
+      "location":"Andora, Osmanabad",
+      "picture":"https://i1.wp.com/700011.xyz/files/funotic/wow/square_watermelon_japan_02.jpg?w=618&ssl=1",
+      "likes":25,
+      "comments":5,
+      "description":1,
+      "isLiked":true,
+      "isSaved":false
+    },
+    {
+      "id":4,
+      "displayPicture":"https://www.mrdustbin.com/en/wp-content/uploads/2021/03/Suriya-1024x1010.jpg",
+      "name":"Eugene Kane",
+      "location":"Kej, Beed",
+      "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3oKu_4chtzoFVMsRvfF_bqrXOJhZnv5o9NA&usqp=CAU",
+      "likes":562,
+      "comments":21,
+      "description":1,
+      "isLiked":false,
+      "isSaved":false
+    },
+    {
+      "id":5,
+      "displayPicture":"https://www.mrdustbin.com/en/wp-content/uploads/2021/03/Vikram.jpg",
+      "name":"Muhamed Ramirez",
+      "location":"Osmanabad",
+      "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIVexkDj2lT16BLfJwp-7w_QgcR8IeGjrJQ&usqp=CAU",
+      "likes":447,
+      "comments":0,
+      "description":1,
+      "isLiked":true,
+      "isSaved":false
+    },
+    {
+      "id":6,
+      "displayPicture":"https://c8.alamy.com/comp/2D1DXPB/bollywood-actor-john-abraham-arrives-for-the-world-premiere-of-life-in-a-metro-at-the-empire-cinema-in-londons-leicester-square-may-8-2007-reutersluke-macgregor-britain-2D1DXPB.jpg",
+      "name":"Iman Elliott",
+      "location":"Ausa, Latur",
+      "picture":"https://media.gettyimages.com/photos/row-of-winturbines-on-farmers-field-picture-id118369976?s=612x612",
+      "likes":85,
+      "comments":52,
+      "description":1,
+      "isLiked":false,
+      "isSaved":true
+    },
+    {
+      "id":7,
+      "displayPicture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7yKpSsaMQONdxMiHf94g6aeTWh6KEpi-Ow&usqp=CAU",
+      "name":"Jakub Reynolds",
+      "location":"Nilanga, Latur",
+      "picture":"https://images.pexels.com/photos/2132250/pexels-photo-2132250.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "likes":154,
+      "comments":35,
+      "description":1,
+      "isLiked":false,
+      "isSaved":true
+    },
+    {
+      "id":8,
+      "displayPicture":"https://media.gettyimages.com/photos/bollywood-actor-aamir-khan-interacting-with-students-during-round-picture-id456334420?s=612x612",
+      "name":"Cristinio Ronaldo",
+      "location":"Parali, Beed",
+      "picture":"https://i.stack.imgur.com/Ot9nO.jpg",
+      "likes":177,
+      "comments":56,
+      "description":1,
+      "isLiked":true,
+      "isSaved":false
+    },
+    {
+      "id":9,
+      "displayPicture":"https://img.indiaforums.com/media/640x0/51/6772-abhishek-bachchan.jpg",
+      "name":"Maximilian Tucker",
+      "location":"Barshi, Solapur",
+      "picture":"https://images.pexels.com/photos/5231144/pexels-photo-5231144.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "likes":654,
+      "comments":68,
+      "description":1,
+      "isLiked":false,
+      "isSaved":true
+    },
+    {
+      "id":10,
+      "displayPicture":"https://imagevars.gulfnews.com/2019/08/20/190820-amitabh-bachchan_16cada170c3_medium.jpg",
+      "name":"Kelvin Smith",
+      "location":"Solapur",
+      "picture":"https://www.sensefly.com/app/uploads/waypoint/2017/09/eBee_SQ_ag_drone_Matteo_Martin2.jpg",
+      "likes":883,
+      "comments":8,
+      "description":1,
+      "isLiked":true,
+      "isSaved":false
+    }
+  ]
+}
